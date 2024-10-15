@@ -1,0 +1,5 @@
+In Java, writing to a file can be done using several
+classes from the java.io and java.nio.file packages.
+Here's an example using FileWriter and BufferedWriter,
+which are common approaches.
+
